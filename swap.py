@@ -37,4 +37,5 @@ a = a ^ b;
 b = a ^ b;
 a = a ^ b;
 
-print(a,b)   #20 10
+print(a,b)   #20 #10
+
