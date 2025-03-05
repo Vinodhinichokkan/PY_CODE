@@ -4,7 +4,7 @@ list = [4, 8, 2, 10, 15, 18]
 
 list_copy = list[:]
 
-print(list_copy)
+print(list_copy)    #[4, 8, 2, 10, 15, 18]
 
 #---------------method 2[using extend method]---------------
 
